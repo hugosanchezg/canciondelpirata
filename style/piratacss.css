@@ -1,0 +1,9 @@
+
+body{background-image: url("../images/si.jpg");
+        text-align: center;
+        margin:0;
+        padding:0;}
+#container {background-color: hsla(29, 38%, 64%, 0.568);
+        width:60%;
+        height: 100vh;
+        margin:auto;}

@@ -1,0 +1,17 @@
+
+body{background-image: url("../images/patron.jpg");
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+    
+#container{background-color: hsla(29, 38%, 64%, 0.568);
+    background-size: cover;
+    width:90%;
+    height: 100vh;
+    margin:auto;
+    padding:20px 0}
+    
+#poema{
+    background-color: rgb(247, 197, 123);
+    width: 350px;
+    padding: 20px;
+    margin-left: 20px;
+    }
